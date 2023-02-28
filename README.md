@@ -4,6 +4,7 @@
 - Je suis intéressé par le monde de la cybersécurité.
 - Je suis un technologue senior en développement logiciel.
 - Je suis étudiant en génie électronique et télécommunications à l'Université de Cuenca.
+- Je suis le fondateur de la société FastVisionEc, dédiée au secteur des Technologies de l'Information et de la Communication, de la sécurité et du développement logiciel.
 
 ## Les technologies 🚀
 
