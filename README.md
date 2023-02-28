@@ -5,6 +5,20 @@ Bonjour, je m'appelle Edward et je vous souhaite la bienvenue dans mon référen
 ## Les technologies 🚀
 
 [<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
+[<img align="left" alt="HTML5" width="35px" src="" />](https://github.com/eduuhack/)
 <br/><br/>
 
 ## Mes réseaux sociaux 🫡
