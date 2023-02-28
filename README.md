@@ -1,6 +1,9 @@
 ## Bienvenue sur mon profil 👋 
 
-Bonjour, je m'appelle Edward et je vous souhaite la bienvenue dans mon référentiel.
+- Bonjour, je m'appelle Edward et je vous souhaite la bienvenue dans mon référentiel.
+- Je suis intéressé par le monde de la cybersécurité.
+- Je suis un technologue senior en développement logiciel.
+- Je suis étudiant en génie électronique et télécommunications à l'Université de Cuenca.
 
 ## Les technologies 🚀
 
